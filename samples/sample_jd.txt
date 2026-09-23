@@ -1,0 +1,25 @@
+Backend Engineer (Python/Django) — CloudScale
+
+About the role
+We are looking for a Backend Engineer to design, build, and scale APIs that power our
+SaaS platform. You will own services end-to-end: design, implementation, testing,
+deployment, and monitoring.
+
+Responsibilities
+- Design and develop scalable REST APIs in Python (Django or FastAPI).
+- Optimize PostgreSQL schemas and queries for high-throughput workloads.
+- Build and maintain CI/CD pipelines and containerize services with Docker/Kubernetes.
+- Integrate Redis-based caching and background job processing (Celery).
+- Participate in on-call rotations and improve observability (metrics, logging, tracing).
+- Collaborate with frontend and product teams to deliver features.
+
+Requirements
+- 3+ years of backend development experience with Python and Django.
+- Strong SQL skills and experience with PostgreSQL in production.
+- Hands-on experience with Docker and Kubernetes in a cloud environment (AWS preferred).
+- Experience with CI/CD pipelines (GitHub Actions or similar).
+- Solid understanding of REST API design, authentication (OAuth2/JWT), and testing (pytest).
+- Nice to have: Celery, Kafka, Terraform, Grafana.
+
+Benefits
+- Remote-friendly, flexible hours, learning budget, health insurance.

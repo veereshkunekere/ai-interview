@@ -1,0 +1,32 @@
+RAMESH KUMAR
+Bengaluru, India | ramesh.kumar@email.com | +91 98765 43210 | github.com/rameshkumar
+
+PROFESSIONAL SUMMARY
+Backend-focused Software Engineer with 3 years of experience building and operating
+REST APIs and microservices in production. Strong in Python and Django, with working
+knowledge of Docker, CI/CD pipelines, and PostgreSQL. Led a team of 2 interns on a
+billing platform migration.
+
+EXPERIENCE
+Software Engineer — TechNova Solutions (Jan 2022 – Present)
+- Designed and shipped 15+ REST endpoints for an order-management platform serving 40k DAU.
+- Reduced average API latency from 800ms to 220ms by introducing Redis caching and query tuning.
+- Containerized services with Docker and set up GitHub Actions CI/CD for automated deploys.
+- Migrated a legacy billing module from monolith to Django microservice with zero downtime.
+- Mentored 2 interns; conducted code reviews for a team of 5.
+
+Junior Developer — Startly Labs (Jun 2021 – Dec 2021)
+- Built internal admin panels with Django and PostgreSQL.
+- Wrote SQL reports and automated weekly data exports with Python scripts.
+
+SKILLS
+Languages: Python, SQL, JavaScript, Bash
+Frameworks: Django, Flask, FastAPI basics
+Tools: Docker, GitHub Actions, Redis, PostgreSQL, Git, Linux
+Practices: REST API design, microservices, code review
+
+EDUCATION
+B.E. Computer Science — Visvesvaraya Technological University (2021)
+
+PROJECTS
+- Expense Tracker API: Django REST API with token auth and Docker deployment.
